@@ -3,6 +3,7 @@ layout: page_team
 title: Platform
 cat: gaia
 subcat: cell
+headline: Support for scientific research and massive image processing
 teasing: Our goal is to meet the specific needs of NeuroSpin researchers for software development and analysis of heterogeneous brain data (neuroimaging, omics, clinical and behavioural data) used in the context of research conducted in clinical neuroscience, population imaging or cognitive neuroscience research.
 leader: Antoine Grigis
 icon: platform.jpg

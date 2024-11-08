@@ -16,7 +16,7 @@ permalink: teams/gaia-signature.html
 <div class="content">
   <header><p>{{ page.title }} team</p></header>
   <p>
-​The signature team focuses on the design of cutting-edge machine learning and statistical models to uncover neural signatures that can predict psychiatric disorders. Our goal is to harness the power of data by overseeing the effective management of multiple large-scale national and European initiatives. This will allow us to train and refine AI models to their fullest potential.
+Design of machine learning and statistical models to uncover neural signatures psychiatric disorders. Our goal is to harness the power of data by overseeing the effective management of multiple large-scale national and European initiatives. This will allow us to train and refine AI models to their fullest potential.
   </p>
   <p>
     <b> Leader: </b>
