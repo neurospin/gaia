@@ -13,7 +13,7 @@ layout: page_lab
   Computer vision and machine learning models of brain imaging variability: from population-wide databases to precision models for high-field MRI
   </em></p>
   <p>
-  The GAIA laboratory is part of the BAOBAB (<a href="http://www.cea.fr/english"  target="_blank">CEA</a>, CNRS, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>) unit in the <a href="http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin</a> departement. <a href="https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin">Directions to Neurospin</a>.
+  The GAIA laboratory is part of the BAOBAB (<a href="https://www.cea.fr/english" target="_blank">CEA</a>, <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a>, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>) unit in the <a href="https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin</a> departement. <a href="https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin">Directions to Neurospin</a>.
   </p>
   <!-- <p>
   <b>Teams:</b>
