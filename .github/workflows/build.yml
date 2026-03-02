@@ -35,7 +35,7 @@ jobs:
         COMPOSE_INTERACTIVE_NO_CLI: 1
 
     - name: Upload built pages
-      uses: actions/upload-artifact@v6
+      uses: actions/upload-artifact@v7
       with:
         name: gaia-site
         path: _site
